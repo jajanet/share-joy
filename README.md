@@ -60,8 +60,12 @@ If you'd like to add more languages common to the Bay Area (like Vietnamese or A
 
 ## TO-DO
 - Add demo video of generation and printing
-- Add example image
-- Add example of showing images
+- Add example of extracting images
 
 ## License
 MIT - Spread the love
+
+## Example
+<img src="example.png" alt="Example affirmation generated from script" height="600"/>
+
+[Link to full-sized example affirmation image generated from script](example.png)
